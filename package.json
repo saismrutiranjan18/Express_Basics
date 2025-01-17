@@ -1,0 +1,19 @@
+{
+  "name": "chaiaurdeploy",
+  "version": "1.0.0",
+  "description": "deployement of our first deploy app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "sai",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
